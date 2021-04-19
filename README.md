@@ -21,6 +21,4 @@
 
 <h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cdabruno&show_icons=true&locale=en&layout=compact" alt="cdabruno" /></h1>
 
-<h1 align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cdabruno&show_icons=true&locale=en" alt="cdabruno" /></h1>
 
-<h1 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cdabruno&" alt="cdabruno" /></h1>
