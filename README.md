@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **brunocalmx@gmail.com**
 
-- ⚡ Fun fact **I believe I'm funny at times :|**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
