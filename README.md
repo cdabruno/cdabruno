@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdabruno&label=Profile%20views&color=0e75b6&style=flat" alt="cdabruno" /> </p>
 
-- Im working on [a Sokoban solver](https://github.com/cdabruno/SokobanDomainGenerator)
+- I'm working on [a Sokoban solver](https://github.com/cdabruno/SokobanDomainGenerator)
 
 - I’m currently learning **Node.js and other web frameworks**
 
