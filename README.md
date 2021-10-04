@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bruno Corrêa</h1>
 <h3 align="center">I'm currently a computer science student at UFRGS (Federal University of Rio Grande do Sul)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdabruno&label=Profile%20views&color=0e75b6&style=flat" alt="cdabruno" /> </p>
