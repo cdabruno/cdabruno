@@ -2,9 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdabruno&label=Profile%20views&color=0e75b6&style=flat" alt="cdabruno" /> </p>
 
-- I'm working on [a Sokoban solver](https://github.com/cdabruno/SokobanDomainGenerator)
+- I'm working on [PANDA] (an HTN-planner) (https://github.com/cdabruno/panda)
 
-- I’m currently learning **Node.js and other web frameworks**
 
 - 📫 How to reach me **brunocalmx@gmail.com**
 
