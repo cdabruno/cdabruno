@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdabruno&label=Profile%20views&color=0e75b6&style=flat" alt="cdabruno" /> </p>
 
-- I'm currently working on PANDA - an HTN-planner (https://github.com/cdabruno/panda)
+
+- Currently an intern at SAP
+- PANDA - an HTN-planner (https://github.com/cdabruno/panda)
 
 
 - 📫 How to reach me **brunocalmx@gmail.com**
