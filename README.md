@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdabruno&label=Profile%20views&color=0e75b6&style=flat" alt="cdabruno" /> </p>
 
 
-- Currently an intern at SAP
+- Software engineer at SAP
 - PANDA - an HTN-planner (https://github.com/cdabruno/panda)
+- Working on a distributed observation platform for distributed systems based on eBPF
 
 
 - 📫 How to reach me **brunocalmx@gmail.com**
