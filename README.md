@@ -5,7 +5,7 @@
 
 - Software engineer at SAP
 - PANDA - an HTN-planner (https://github.com/cdabruno/panda)
-- Working on a distributed observation platform for distributed systems based on eBPF
+- Working on a telemetry solution for distributed systems based on eBPF
 
 
 - 📫 How to reach me **brunocalmx@gmail.com**
